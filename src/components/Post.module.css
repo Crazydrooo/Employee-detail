@@ -1,0 +1,69 @@
+.post_container{
+    color: #E0E0E0;
+    border: 2px solid #39FF14;
+    background-color:#121212;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    width: 27rem;
+    height: 27rem;
+    
+
+}
+
+
+.heading{
+  color: #E0E0E0;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: 100;
+  padding-left: 3rem;
+}
+
+.item{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.post_btn{
+    margin-top: 1rem;
+    height: 2rem;
+    width: 4.5rem;
+    color: #39FF14;
+    background-color: #121212;
+    font-family:'Courier New', Courier, monospace;
+
+   
+}
+
+input{
+    
+    height: 2.5rem;
+    width: 15rem;
+    font-size: larger;
+    color: #39FF14;
+    background-color: #121212;
+    font-family:'Courier New', Courier, monospace
+    
+}
+
+
+label{
+    padding-top: 10px;
+    font-family:'Courier New', Courier, monospace;
+    color: #E0E0E0;
+}
+
+
+.textArea{
+    height: 8rem;
+    background-color: #121212;
+    color: #39FF14;
+ 
+    font-size:medium;
+    font-family:'Courier New', Courier, monospace;
+    
+}
